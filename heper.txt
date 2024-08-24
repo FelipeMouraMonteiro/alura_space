@@ -1,0 +1,8 @@
+#baixar o python
+#pip install
+#pip intall django
+#python -m virtualenv venv
+#venv/scripts/activate
+#pip freeze > requiriments.txt
+#django-admin startproject setup .
+#python manage.py runserver
